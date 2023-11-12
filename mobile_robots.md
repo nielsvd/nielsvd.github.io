@@ -5,7 +5,7 @@ layout: default
 ## Industrial Multi-Robot Navigation
 
 An industrial perspective on multi-robot planning in factories and warehouses:
-* 
+* [Link to workshop paper](https://github.com/nielsvd/nielsvd.github.io/files/13329013/van_Duijkeren_et_al_2022_An_Industrial_Perspective_on_Multi-Agent_Decision_Making.pdf)
 
 ## Caster-wheel Aware MPC for Mobile Robots
 
