@@ -14,6 +14,7 @@ Other works
 * 2018-2021 - [Control of Robot Arms for Assembly](./assembly.md)
 * 2013-2014 - [MSc Thesis at Volvo Trucks](./vgtt.md)
 * 2012-2013 - [Forze Hydrogen Racing](./forze.md)
+* 2008-2009 - [BSc Student Projects](./bsc.md)
 
 # About me
 
