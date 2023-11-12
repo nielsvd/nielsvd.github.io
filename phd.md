@@ -10,7 +10,17 @@ Without any bias, I can highly recommend reading the PhD thesis: [Online Motion 
 
 Unfortunately, I never got to publishing this in a paper; you can find results in [Chapter 3 of my thesis though](https://lirias.kuleuven.be/retrieve/527169). Definitely also checkout out this paper I co-authored with important background: [Exploiting Convexity in Direct Optimal Control: a Sequential Convex Quadratic Programming Method](https://lirias.kuleuven.be/retrieve/420776); I still use this simple but elegant trick where possible to stabilize optimization schemes.
 
-_VIDEOS HERE_
+#### The Reference Approach: Gauss-Newton SQP for Tracking MPC
+<iframe width="699" height="393" src="https://www.youtube.com/embed/1O-KbzPDnFQ" title="IRB120 SCQP Path Following" frameborder="0" allowfullscreen></iframe>
+
+#### Tunnel Following MPC allowing 20mm Path Deviation using SCQP
+<iframe width="699" height="393" src="https://www.youtube.com/embed/ASoASVIxNtQ" title="IRB120 SCQP Tunnel Following" frameborder="0" allowfullscreen></iframe>
+
+#### Tunnel Following MPC allowing 10mm Path Deviation using SCQP
+<iframe width="699" height="393" src="https://www.youtube.com/embed/A7ea9qIqOuI" title="IRB120 SCQP Tunnel Following" frameborder="0" allowfullscreen></iframe>
+
+#### Tunnel Following MPC allowing 1mm Path Deviation using SCQP
+<iframe width="699" height="393" src="https://www.youtube.com/embed/K78Cq7nCPhU" title="IRB120 SCQP Tunnel Following" frameborder="0" allowfullscreen></iframe>
 
 ### Dual-objective NMPC near Target Manifolds
 
