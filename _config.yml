@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: nielsvd
-description: A brief CV and some past projects
+description: Past projects and a brief CV
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-hacker
