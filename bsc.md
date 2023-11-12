@@ -4,7 +4,11 @@ layout: default
 
 ## Videos about Projects during BSc Mechanical Engineering
 
-Second-year mechatronics project. Building an automated marble sorting device.
+These are some videos I was able to find back.
+
+### Second-year mechatronics project. Building an automated marble sorting device.
+
+_The software for this project was written in Visual Basic._
 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/1nv_ItYGdLA" title="Mechatronica Knikkerfabriek - De B-Dama Machine." frameborder="0" allowfullscreen></iframe>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome on my website! Below I link to some pages describing interesting projects I've worked on in the past and about which I can share more. There's also a section about me and a very short CV in case that's what you're interested in.
+Welcome on my website! Below I link to some pages describing interesting projects I've worked on in the past and about which I can share more. There's also a very short CV.
 
 # Projects
 
@@ -16,7 +16,14 @@ Other works
 * 2012-2013 - [Forze Hydrogen Racing](./forze.md)
 * 2008-2009 - [BSc Student Projects](./bsc.md)
 
-# About me
-
-
 # CV
+
+* 2018-now - Research Scientist at Bosch Research - Stuttgart, Germany
+  * 2023-now - Project Lead of Team of 14 Scientists Working on (Multi-) Robot Planning and Control
+  * 2018-2022 - Building a Generic Navigation Toolkit for Robot Navigation and Control
+  * 2018-2021 - Control of Robot Manipulators for Robotic Assembly (Precise and Compliant Impedance Control) 
+* 2014-2018 - PhD Mechanical Engeering (Robotics & Automation) - KU Leuven, Belgium
+* 2011-2014 - MSc Systems & Control _(Graduated with distinction)_ - Delft University of Technology, Netherlands
+  * 2012/09-2013/08 - Extracuricullar: full-time member Forze Hydrogen Racing Delft
+* 2008-2011 - BSc Mechanical Engineering _(Graduated with distinction)_ - Delft University of Technology, Netherlands
+  * 2010/09-2011/02 - Exchange Bio-Mechanical Engineering - ETH Zürich, Switzerland
