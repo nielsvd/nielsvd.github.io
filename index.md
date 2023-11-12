@@ -18,11 +18,14 @@ Other works
 
 # CV
 
+Also see my [LinkedIn page](https://www.linkedin.com/in/niels-van-duijkeren/).
+
 * 2018-now - Research Scientist at Bosch Research - Stuttgart, Germany
   * 2023-now - Project Lead of Team of 14 Scientists Working on (Multi-) Robot Planning and Control
   * 2018-2022 - Building a Generic Navigation Toolkit for Robot Navigation and Control
   * 2018-2021 - Control of Robot Manipulators for Robotic Assembly (Precise and Compliant Impedance Control) 
 * 2014-2018 - PhD Mechanical Engeering (Robotics & Automation) - KU Leuven, Belgium
+  * Title: Online Motion Planning in Virtual Corridors - for Fast Robotic Systems
 * 2011-2014 - MSc Systems & Control _(Graduated with distinction)_ - Delft University of Technology, Netherlands
   * 2012/09-2013/08 - Extracuricullar: full-time member Forze Hydrogen Racing Delft
 * 2008-2011 - BSc Mechanical Engineering _(Graduated with distinction)_ - Delft University of Technology, Netherlands

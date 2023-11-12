@@ -4,7 +4,7 @@ layout: default
 
 ## PhD on Real-time Optimal Control for Robot Arms
 
-Without any bias, I can highly recommend reading the PhD thesis: [Online Motion Planning in Virtual Corridors - for fast robotic systems](https://lirias.kuleuven.be/retrieve/527169).
+Without any bias, I can highly recommend reading the PhD thesis: [Online Motion Planning in Virtual Corridors - for Fast Robotic Systems](https://lirias.kuleuven.be/retrieve/527169).
 
 ### Table of Contents
 - [Tunnel MPC for Robot Manipulators using SCQP](#tunnel-mpc-for-robot-manipulators-using-scqp)
