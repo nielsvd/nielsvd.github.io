@@ -10,7 +10,7 @@ Let me highlight my PhD first, the page gives some insights into the work I've d
 * 2014-2018 - [PhD on Real-time Optimal Control for Robot Arms](./phd.md)
 
 Other works
-* 2019-now - [Planning and Control for Mobile Robots](./mobile_robots.md)
+* 2019-2025 - [Planning and Control for Mobile Robots](./mobile_robots.md)
 * 2018-2021 - [Control of Robot Arms for Assembly](./assembly.md)
 * 2013-2014 - [MSc Thesis at Volvo Trucks](./vgtt.md)
 * 2012-2013 - [Forze Hydrogen Racing](./forze.md)
@@ -20,8 +20,12 @@ Other works
 
 Also see my [LinkedIn page](https://www.linkedin.com/in/niels-van-duijkeren/).
 
-* 2018-now - Research Scientist at Bosch Research - Stuttgart, Germany
-  * 2023-now - Project Lead of Team of 14 Scientists Working on (Multi-) Robot Planning and Control
+* 2025-now - Staff Engineer at Fernride GmbH (part of Quantum Systems) - Munich, Germany
+  * 2025/10-now - Manager Motion Planning & Control for Autonomous Driving
+  * 2025/07-now - IC for Control & Planning: on/offroad navigation of trucks
+* 2018-2025 - Research Scientist at Bosch Research - Stuttgart, Germany
+  * 2024-2025/07 - Senior Expert Robot Control & Optimization
+  * 2023-2025 - Project Lead of Team of 14 Scientists Working on (Multi-) Robot Planning and Control
   * 2018-2022 - Building a Generic Navigation Toolkit for Robot Navigation and Control
   * 2018-2021 - Control of Robot Manipulators for Robotic Assembly (Precise and Compliant Impedance Control) 
 * 2014-2018 - PhD Mechanical Engeering (Robotics & Automation) - KU Leuven, Belgium
