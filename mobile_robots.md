@@ -32,13 +32,13 @@ The SADG-based (Switchable Action Dependency Graph) control scheme enables fast 
 
 SADG Receding Horizon Feedback Control Scheme | Typical MAPF Execution Schemes |
 :-------------------------:|:-------------------------:|
-![](.github/diagrams/feedback_diagram.svg)| ![](.github/diagrams/typical_mapf_scheme.svg) |
+![](assets/diagrams/feedback_diagram.svg)| ![](assets/diagrams/typical_mapf_scheme.svg) |
 
 _Our approach significantly reduces the cumulative route completion of agents subjected to large delays by optimizing the ordering of agents based on their progress in a receding horizon fashion, while maintaining collision- and deadlock-free plan execution guarantees._
 
  Switchable Action Dependency Graph | Roadmap |
 :-------------------------:|:-------------------------:|
-![](.github/animations/sadg.gif) | ![](.github/animations/roadmap.gif) |
+![](assets/animations/sadg.gif) | ![](assets/animations/roadmap.gif) |
 
 
 [back](./)

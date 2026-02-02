@@ -8,6 +8,21 @@ layout: default
 * [Link to NMPC2015 paper](https://www.sciencedirect.com/science/article/pii/S2405896315025446)
 
 ### Video of NMPC-based merging maneuver with high-fidelity vehicle model
-https://github.com/nielsvd/nielsvd.github.io/assets/11959015/b995af30-11bb-4160-8e53-e083c4196c9b
+
+<style>
+.video-container {
+  max-width: 100%;
+}
+.video-container video {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="video-container">
+  <video controls>
+    <source src="/assets/videos/volvo.mp4" type="video/mp4">
+  </video>
+</div>
 
 [back](./)
